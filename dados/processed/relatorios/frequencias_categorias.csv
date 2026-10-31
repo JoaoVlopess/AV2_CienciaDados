@@ -1,0 +1,261 @@
+﻿conjunto;coluna;categoria;rotulo;contagem;percentual
+diagnostico;Q006;A;Nenhuma renda;268053;6,8138
+diagnostico;Q006;B;Até R$ 1.320,00;1245271;31,6544
+diagnostico;Q006;C;De R$ 1.320,01 até R$ 1.980,00;650942;16,5468
+diagnostico;Q006;D;De R$ 1.980,01 até R$ 2.640,00;437366;11,1177
+diagnostico;Q006;E;De R$ 2.640,01 até R$ 3.300,00;293994;7,4732
+diagnostico;Q006;F;De R$ 3.300,01 até R$ 3.960,00;171344;4,3555
+diagnostico;Q006;G;De R$ 3.960,01 até R$ 5.280,00;261327;6,6429
+diagnostico;Q006;H;De R$ 5.280,01 até R$ 6.600,00;139279;3,5404
+diagnostico;Q006;I;De R$ 6.600,01 até R$ 7.920,00;85970;2,1853
+diagnostico;Q006;J;De R$ 7.920,01 até R$ 9.240,00;75179;1,911
+diagnostico;Q006;K;De R$ 9.240,01 até R$ 10.560,00;59631;1,5158
+diagnostico;Q006;L;De R$ 10.560,01 até R$ 11.880,00;39596;1,0065
+diagnostico;Q006;M;De R$ 11.880,01 até R$ 13.200,00;33626;0,8548
+diagnostico;Q006;N;De R$ 13.200,01 até R$ 15.840,00;41565;1,0566
+diagnostico;Q006;O;De R$ 15.840,01 até R$ 19.800,00;41218;1,0477
+diagnostico;Q006;P;De R$ 19.800,01 até R$ 26.400,00;38105;0,9686
+diagnostico;Q006;Q;Acima de R$ 26.400,00;51489;1,3088
+diagnostico;Q001;A;Nunca estudou;174712;4,4411
+diagnostico;Q001;B;Não completou a 4ª série/5º ano do EF;700175;17,7982
+diagnostico;Q001;C;Completou a 4ª série/5º ano, mas não a 8ª série/9º ano do EF;513213;13,0457
+diagnostico;Q001;D;Completou a 8ª série/9º ano do EF, mas não o EM;438139;11,1374
+diagnostico;Q001;E;Completou o EM, mas não a faculdade;1114164;28,3217
+diagnostico;Q001;F;Completou a faculdade, mas não a pós-graduação;333981;8,4897
+diagnostico;Q001;G;Completou a pós-graduação;256045;6,5086
+diagnostico;Q001;H;Não sei;403526;10,2575
+diagnostico;Q002;A;Nunca estudou;110831;2,8173
+diagnostico;Q002;B;Não completou a 4ª série/5º ano do EF;505525;12,8503
+diagnostico;Q002;C;Completou a 4ª série/5º ano, mas não a 8ª série/9º ano do EF;437022;11,109
+diagnostico;Q002;D;Completou a 8ª série/9º ano do EF, mas não o EM;473854;12,0452
+diagnostico;Q002;E;Completou o EM, mas não a faculdade;1377605;35,0183
+diagnostico;Q002;F;Completou a faculdade, mas não a pós-graduação;455268;11,5728
+diagnostico;Q002;G;Completou a pós-graduação;441893;11,2328
+diagnostico;Q002;H;Não sei;131957;3,3543
+diagnostico;TP_ESCOLA;1;Não respondeu;2532796;64,3829
+diagnostico;TP_ESCOLA;2;Pública;1166540;29,6531
+diagnostico;TP_ESCOLA;3;Privada;234619;5,9639
+diagnostico;TP_ST_CONCLUSAO;1;Já concluí o EM;1895301;48,178
+diagnostico;TP_ST_CONCLUSAO;2;Estou cursando e concluirei o EM em 2023;1401164;35,6172
+diagnostico;TP_ST_CONCLUSAO;3;Estou cursando e concluirei o EM após 2023;620067;15,7619
+diagnostico;TP_ST_CONCLUSAO;4;Não concluí e não estou cursando o EM;17423;0,4429
+diagnostico;TP_FAIXA_ETARIA;1;Menor de 17 anos;347434;8,8317
+diagnostico;TP_FAIXA_ETARIA;2;17 anos;753800;19,1614
+diagnostico;TP_FAIXA_ETARIA;3;18 anos;905047;23,006
+diagnostico;TP_FAIXA_ETARIA;4;19 anos;431592;10,9709
+diagnostico;TP_FAIXA_ETARIA;5;20 anos;267383;6,7968
+diagnostico;TP_FAIXA_ETARIA;6;21 anos;183401;4,662
+diagnostico;TP_FAIXA_ETARIA;7;22 anos;137884;3,505
+diagnostico;TP_FAIXA_ETARIA;8;23 anos;111813;2,8423
+diagnostico;TP_FAIXA_ETARIA;9;24 anos;91359;2,3223
+diagnostico;TP_FAIXA_ETARIA;10;25 anos;73127;1,8589
+diagnostico;TP_FAIXA_ETARIA;11;Entre 26 e 30 anos;246292;6,2607
+diagnostico;TP_FAIXA_ETARIA;12;Entre 31 e 35 anos;133381;3,3905
+diagnostico;TP_FAIXA_ETARIA;13;Entre 36 e 40 anos;96927;2,4639
+diagnostico;TP_FAIXA_ETARIA;14;Entre 41 e 45 anos;67135;1,7066
+diagnostico;TP_FAIXA_ETARIA;15;Entre 46 e 50 anos;40791;1,0369
+diagnostico;TP_FAIXA_ETARIA;16;Entre 51 e 55 anos;24619;0,6258
+diagnostico;TP_FAIXA_ETARIA;17;Entre 56 e 60 anos;13439;0,3416
+diagnostico;TP_FAIXA_ETARIA;18;Entre 61 e 65 anos;5503;0,1399
+diagnostico;TP_FAIXA_ETARIA;19;Entre 66 e 70 anos;2161;0,0549
+diagnostico;TP_FAIXA_ETARIA;20;Maior de 70 anos;867;0,022
+diagnostico;Q005;1;;146875;3,7335
+diagnostico;Q005;2;;567635;14,4291
+diagnostico;Q005;3;;1086674;27,6229
+diagnostico;Q005;4;;1247259;31,705
+diagnostico;Q005;5;;566325;14,3958
+diagnostico;Q005;6;;194132;4,9348
+diagnostico;Q005;7;;71049;1,806
+diagnostico;Q005;8;;29968;0,7618
+diagnostico;Q005;9;;11192;0,2845
+diagnostico;Q005;10;;6826;0,1735
+diagnostico;Q005;11;;2281;0,058
+diagnostico;Q005;12;;1497;0,0381
+diagnostico;Q005;13;;647;0,0164
+diagnostico;Q005;14;;364;0,0093
+diagnostico;Q005;15;;348;0,0088
+diagnostico;Q005;16;;126;0,0032
+diagnostico;Q005;17;;109;0,0028
+diagnostico;Q005;18;;86;0,0022
+diagnostico;Q005;19;;57;0,0014
+diagnostico;Q005;20;;505;0,0128
+diagnostico;Q024;A;Não;2041637;51,8978
+diagnostico;Q024;B;Sim, um;1362634;34,6378
+diagnostico;Q024;C;Sim, dois;341120;8,6712
+diagnostico;Q024;D;Sim, três;126296;3,2104
+diagnostico;Q024;E;Sim, quatro ou mais;62268;1,5828
+diagnostico;Q025;A;Não;375504;9,5452
+diagnostico;Q025;B;Sim;3558451;90,4548
+diagnostico;IN_TREINEIRO;0;Não;3313888;84,2381
+diagnostico;IN_TREINEIRO;1;Sim;620067;15,7619
+diagnostico;SG_UF_PROVA;AC;;24274;0,617
+diagnostico;SG_UF_PROVA;AL;;82760;2,1037
+diagnostico;SG_UF_PROVA;AM;;92916;2,3619
+diagnostico;SG_UF_PROVA;AP;;28807;0,7323
+diagnostico;SG_UF_PROVA;BA;;324268;8,2428
+diagnostico;SG_UF_PROVA;CE;;241960;6,1506
+diagnostico;SG_UF_PROVA;DF;;72975;1,855
+diagnostico;SG_UF_PROVA;ES;;73724;1,874
+diagnostico;SG_UF_PROVA;GO;;149110;3,7903
+diagnostico;SG_UF_PROVA;MA;;165756;4,2135
+diagnostico;SG_UF_PROVA;MG;;358575;9,1149
+diagnostico;SG_UF_PROVA;MS;;47455;1,2063
+diagnostico;SG_UF_PROVA;MT;;63912;1,6246
+diagnostico;SG_UF_PROVA;PA;;229162;5,8252
+diagnostico;SG_UF_PROVA;PB;;124511;3,165
+diagnostico;SG_UF_PROVA;PE;;218859;5,5633
+diagnostico;SG_UF_PROVA;PI;;99639;2,5328
+diagnostico;SG_UF_PROVA;PR;;166506;4,2325
+diagnostico;SG_UF_PROVA;RJ;;282296;7,1759
+diagnostico;SG_UF_PROVA;RN;;100706;2,5599
+diagnostico;SG_UF_PROVA;RO;;36038;0,9161
+diagnostico;SG_UF_PROVA;RR;;9639;0,245
+diagnostico;SG_UF_PROVA;RS;;159919;4,0651
+diagnostico;SG_UF_PROVA;SC;;91263;2,3199
+diagnostico;SG_UF_PROVA;SE;;65540;1,666
+diagnostico;SG_UF_PROVA;SP;;590767;15,0171
+diagnostico;SG_UF_PROVA;TO;;32618;0,8291
+diagnostico;TP_LINGUA;0;Inglês;2136104;54,2991
+diagnostico;TP_LINGUA;1;Espanhol;1797851;45,7009
+diagnostico;ESCOLARIDADE_MAX_RESP;A;Nunca estudou;60200;1,5303
+diagnostico;ESCOLARIDADE_MAX_RESP;B;Não completou a 4ª série/5º ano do EF;359752;9,1448
+diagnostico;ESCOLARIDADE_MAX_RESP;C;Completou a 4ª série/5º ano, mas não a 8ª série/9º ano do EF;331657;8,4306
+diagnostico;ESCOLARIDADE_MAX_RESP;D;Completou a 8ª série/9º ano do EF, mas não o EM;383819;9,7566
+diagnostico;ESCOLARIDADE_MAX_RESP;E;Completou o EM, mas não a faculdade;1318780;33,523
+diagnostico;ESCOLARIDADE_MAX_RESP;F;Completou a faculdade, mas não a pós-graduação;500808;12,7304
+diagnostico;ESCOLARIDADE_MAX_RESP;G;Completou a pós-graduação;537687;13,6678
+diagnostico;ESCOLARIDADE_MAX_RESP;INDETERMINADA;H, ausente ou inválido em algum responsável;441252;11,2165
+diagnostico;PERFIL_ACESSO_DIGITAL;COMPUTADOR_E_INTERNET;Q024 em B–E e Q025 = B;1870091;47,5372
+diagnostico;PERFIL_ACESSO_DIGITAL;SEM_COMPUTADOR_SEM_INTERNET;Q024 = A e Q025 = A;353277;8,9802
+diagnostico;PERFIL_ACESSO_DIGITAL;SOMENTE_COMPUTADOR;Q024 em B–E e Q025 = A;22227;0,565
+diagnostico;PERFIL_ACESSO_DIGITAL;SOMENTE_INTERNET;Q024 = A e Q025 = B;1688360;42,9176
+elegiveis;Q006;A;Nenhuma renda;166267;5,8905
+elegiveis;Q006;B;Até R$ 1.320,00;828092;29,3375
+elegiveis;Q006;C;De R$ 1.320,01 até R$ 1.980,00;439169;15,5588
+elegiveis;Q006;D;De R$ 1.980,01 até R$ 2.640,00;311880;11,0492
+elegiveis;Q006;E;De R$ 2.640,01 até R$ 3.300,00;220090;7,7973
+elegiveis;Q006;F;De R$ 3.300,01 até R$ 3.960,00;132945;4,7099
+elegiveis;Q006;G;De R$ 3.960,01 até R$ 5.280,00;210022;7,4406
+elegiveis;Q006;H;De R$ 5.280,01 até R$ 6.600,00;114874;4,0697
+elegiveis;Q006;I;De R$ 6.600,01 até R$ 7.920,00;71944;2,5488
+elegiveis;Q006;J;De R$ 7.920,01 até R$ 9.240,00;63847;2,262
+elegiveis;Q006;K;De R$ 9.240,01 até R$ 10.560,00;51117;1,811
+elegiveis;Q006;L;De R$ 10.560,01 até R$ 11.880,00;34106;1,2083
+elegiveis;Q006;M;De R$ 11.880,01 até R$ 13.200,00;29032;1,0285
+elegiveis;Q006;N;De R$ 13.200,01 até R$ 15.840,00;36014;1,2759
+elegiveis;Q006;O;De R$ 15.840,01 até R$ 19.800,00;35846;1,2699
+elegiveis;Q006;P;De R$ 19.800,01 até R$ 26.400,00;33266;1,1785
+elegiveis;Q006;Q;Acima de R$ 26.400,00;44132;1,5635
+elegiveis;Q001;A;Nunca estudou;103010;3,6494
+elegiveis;Q001;B;Não completou a 4ª série/5º ano do EF;435750;15,4377
+elegiveis;Q001;C;Completou a 4ª série/5º ano, mas não a 8ª série/9º ano do EF;350945;12,4332
+elegiveis;Q001;D;Completou a 8ª série/9º ano do EF, mas não o EM;314550;11,1438
+elegiveis;Q001;E;Completou o EM, mas não a faculdade;848825;30,072
+elegiveis;Q001;F;Completou a faculdade, mas não a pós-graduação;279990;9,9194
+elegiveis;Q001;G;Completou a pós-graduação;222406;7,8794
+elegiveis;Q001;H;Não sei;267167;9,4651
+elegiveis;Q002;A;Nunca estudou;62122;2,2008
+elegiveis;Q002;B;Não completou a 4ª série/5º ano do EF;299378;10,6063
+elegiveis;Q002;C;Completou a 4ª série/5º ano, mas não a 8ª série/9º ano do EF;282598;10,0118
+elegiveis;Q002;D;Completou a 8ª série/9º ano do EF, mas não o EM;323255;11,4522
+elegiveis;Q002;E;Completou o EM, mas não a faculdade;1021652;36,1949
+elegiveis;Q002;F;Completou a faculdade, mas não a pós-graduação;373742;13,2409
+elegiveis;Q002;G;Completou a pós-graduação;376704;13,3458
+elegiveis;Q002;H;Não sei;83192;2,9473
+elegiveis;TP_ESCOLA;1;Não respondeu;1723031;61,0432
+elegiveis;TP_ESCOLA;2;Pública;874837;30,9935
+elegiveis;TP_ESCOLA;3;Privada;224775;7,9633
+elegiveis;TP_ST_CONCLUSAO;1;Já concluí o EM;1163414;41,2172
+elegiveis;TP_ST_CONCLUSAO;2;Estou cursando e concluirei o EM em 2023;1099617;38,957
+elegiveis;TP_ST_CONCLUSAO;3;Estou cursando e concluirei o EM após 2023;548249;19,4232
+elegiveis;TP_ST_CONCLUSAO;4;Não concluí e não estou cursando o EM;11363;0,4026
+elegiveis;TP_FAIXA_ETARIA;1;Menor de 17 anos;309097;10,9506
+elegiveis;TP_FAIXA_ETARIA;2;17 anos;650260;23,0373
+elegiveis;TP_FAIXA_ETARIA;3;18 anos;714078;25,2982
+elegiveis;TP_FAIXA_ETARIA;4;19 anos;306424;10,8559
+elegiveis;TP_FAIXA_ETARIA;5;20 anos;178043;6,3077
+elegiveis;TP_FAIXA_ETARIA;6;21 anos;114644;4,0616
+elegiveis;TP_FAIXA_ETARIA;7;22 anos;82268;2,9146
+elegiveis;TP_FAIXA_ETARIA;8;23 anos;63440;2,2475
+elegiveis;TP_FAIXA_ETARIA;9;24 anos;49729;1,7618
+elegiveis;TP_FAIXA_ETARIA;10;25 anos;38600;1,3675
+elegiveis;TP_FAIXA_ETARIA;11;Entre 26 e 30 anos;122682;4,3464
+elegiveis;TP_FAIXA_ETARIA;12;Entre 31 e 35 anos;64535;2,2863
+elegiveis;TP_FAIXA_ETARIA;13;Entre 36 e 40 anos;48036;1,7018
+elegiveis;TP_FAIXA_ETARIA;14;Entre 41 e 45 anos;33881;1,2003
+elegiveis;TP_FAIXA_ETARIA;15;Entre 46 e 50 anos;21409;0,7585
+elegiveis;TP_FAIXA_ETARIA;16;Entre 51 e 55 anos;13149;0,4658
+elegiveis;TP_FAIXA_ETARIA;17;Entre 56 e 60 anos;7394;0,262
+elegiveis;TP_FAIXA_ETARIA;18;Entre 61 e 65 anos;3198;0,1133
+elegiveis;TP_FAIXA_ETARIA;19;Entre 66 e 70 anos;1270;0,045
+elegiveis;TP_FAIXA_ETARIA;20;Maior de 70 anos;506;0,0179
+elegiveis;Q005;1;;77895;2,7596
+elegiveis;Q005;2;;371314;13,1548
+elegiveis;Q005;3;;795374;28,1783
+elegiveis;Q005;4;;947710;33,5753
+elegiveis;Q005;5;;412757;14,6231
+elegiveis;Q005;6;;134815;4,7762
+elegiveis;Q005;7;;47753;1,6918
+elegiveis;Q005;8;;19583;0,6938
+elegiveis;Q005;9;;7303;0,2587
+elegiveis;Q005;10;;4335;0,1536
+elegiveis;Q005;11;;1450;0,0514
+elegiveis;Q005;12;;969;0,0343
+elegiveis;Q005;13;;417;0,0148
+elegiveis;Q005;14;;213;0,0075
+elegiveis;Q005;15;;220;0,0078
+elegiveis;Q005;16;;80;0,0028
+elegiveis;Q005;17;;68;0,0024
+elegiveis;Q005;18;;58;0,0021
+elegiveis;Q005;19;;30;0,0011
+elegiveis;Q005;20;;299;0,0106
+elegiveis;Q024;A;Não;1366469;48,411
+elegiveis;Q024;B;Sim, um;1012704;35,8779
+elegiveis;Q024;C;Sim, dois;280325;9,9313
+elegiveis;Q024;D;Sim, três;108761;3,8532
+elegiveis;Q024;E;Sim, quatro ou mais;54384;1,9267
+elegiveis;Q025;A;Não;237589;8,4173
+elegiveis;Q025;B;Sim;2585054;91,5827
+elegiveis;IN_TREINEIRO;0;Não;2274394;80,5768
+elegiveis;IN_TREINEIRO;1;Sim;548249;19,4232
+elegiveis;SG_UF_PROVA;AC;;16162;0,5726
+elegiveis;SG_UF_PROVA;AL;;57761;2,0463
+elegiveis;SG_UF_PROVA;AM;;52183;1,8487
+elegiveis;SG_UF_PROVA;AP;;19524;0,6917
+elegiveis;SG_UF_PROVA;BA;;230352;8,1609
+elegiveis;SG_UF_PROVA;CE;;180709;6,4021
+elegiveis;SG_UF_PROVA;DF;;53169;1,8837
+elegiveis;SG_UF_PROVA;ES;;52208;1,8496
+elegiveis;SG_UF_PROVA;GO;;102564;3,6336
+elegiveis;SG_UF_PROVA;MA;;118332;4,1922
+elegiveis;SG_UF_PROVA;MG;;262482;9,2992
+elegiveis;SG_UF_PROVA;MS;;33405;1,1835
+elegiveis;SG_UF_PROVA;MT;;44236;1,5672
+elegiveis;SG_UF_PROVA;PA;;161840;5,7336
+elegiveis;SG_UF_PROVA;PB;;90867;3,2192
+elegiveis;SG_UF_PROVA;PE;;159271;5,6426
+elegiveis;SG_UF_PROVA;PI;;73437;2,6017
+elegiveis;SG_UF_PROVA;PR;;122052;4,324
+elegiveis;SG_UF_PROVA;RJ;;196024;6,9447
+elegiveis;SG_UF_PROVA;RN;;75459;2,6733
+elegiveis;SG_UF_PROVA;RO;;24356;0,8629
+elegiveis;SG_UF_PROVA;RR;;6572;0,2328
+elegiveis;SG_UF_PROVA;RS;;118262;4,1898
+elegiveis;SG_UF_PROVA;SC;;66702;2,3631
+elegiveis;SG_UF_PROVA;SE;;48943;1,7339
+elegiveis;SG_UF_PROVA;SP;;432635;15,3273
+elegiveis;SG_UF_PROVA;TO;;23136;0,8197
+elegiveis;TP_LINGUA;0;Inglês;1622560;57,4837
+elegiveis;TP_LINGUA;1;Espanhol;1200083;42,5163
+elegiveis;ESCOLARIDADE_MAX_RESP;A;Nunca estudou;33341;1,1812
+elegiveis;ESCOLARIDADE_MAX_RESP;B;Não completou a 4ª série/5º ano do EF;207993;7,3687
+elegiveis;ESCOLARIDADE_MAX_RESP;C;Completou a 4ª série/5º ano, mas não a 8ª série/9º ano do EF;208468;7,3856
+elegiveis;ESCOLARIDADE_MAX_RESP;D;Completou a 8ª série/9º ano do EF, mas não o EM;255234;9,0424
+elegiveis;ESCOLARIDADE_MAX_RESP;E;Completou o EM, mas não a faculdade;959386;33,9889
+elegiveis;ESCOLARIDADE_MAX_RESP;F;Completou a faculdade, mas não a pós-graduação;406148;14,3889
+elegiveis;ESCOLARIDADE_MAX_RESP;G;Completou a pós-graduação;459366;16,2743
+elegiveis;ESCOLARIDADE_MAX_RESP;INDETERMINADA;H, ausente ou inválido em algum responsável;292707;10,37
+elegiveis;PERFIL_ACESSO_DIGITAL;COMPUTADOR_E_INTERNET;Q024 em B–E e Q025 = B;1441748;51,0779
+elegiveis;PERFIL_ACESSO_DIGITAL;SEM_COMPUTADOR_SEM_INTERNET;Q024 = A e Q025 = A;223163;7,9062
+elegiveis;PERFIL_ACESSO_DIGITAL;SOMENTE_COMPUTADOR;Q024 em B–E e Q025 = A;14426;0,5111
+elegiveis;PERFIL_ACESSO_DIGITAL;SOMENTE_INTERNET;Q024 = A e Q025 = B;1143306;40,5048

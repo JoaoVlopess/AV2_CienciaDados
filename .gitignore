@@ -1,0 +1,11 @@
+# Microdados originais e saídas pesadas não vão para o GitHub
+microdados_enem_2023/
+dados/raw/
+dados/processed/*.parquet
+dados/processed/*.tmp
+dados/conjuntos/**/*.parquet
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/

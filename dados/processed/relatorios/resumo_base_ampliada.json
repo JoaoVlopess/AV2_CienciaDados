@@ -1,0 +1,269 @@
+{
+  "arquivo": "dados/processed/enem_2023_lc_ampliada.parquet",
+  "linhas": 2822643,
+  "colunas": [
+    "NU_INSCRICAO",
+    "Q006",
+    "Q001",
+    "Q002",
+    "TP_ESCOLA",
+    "TP_ST_CONCLUSAO",
+    "TP_FAIXA_ETARIA",
+    "Q005",
+    "Q024",
+    "Q025",
+    "IN_TREINEIRO",
+    "SG_UF_PROVA",
+    "TP_LINGUA",
+    "RENDA_PER_CAPITA_APROX",
+    "ESCOLARIDADE_MAX_RESP",
+    "PERFIL_ACESSO_DIGITAL",
+    "NU_NOTA_LC",
+    "TP_SEXO",
+    "TP_ESTADO_CIVIL",
+    "TP_COR_RACA",
+    "TP_NACIONALIDADE",
+    "TP_ANO_CONCLUIU",
+    "TP_ENSINO",
+    "TP_DEPENDENCIA_ADM_ESC",
+    "TP_LOCALIZACAO_ESC",
+    "CO_MUNICIPIO_PROVA",
+    "Q003",
+    "Q004",
+    "Q007",
+    "Q008",
+    "Q009",
+    "Q010",
+    "Q011",
+    "Q012",
+    "Q013",
+    "Q014",
+    "Q015",
+    "Q016",
+    "Q017",
+    "Q018",
+    "Q019",
+    "Q020",
+    "Q021",
+    "Q022",
+    "Q023",
+    "OCUPACAO_MAX_RESP",
+    "CAPITAL_CULTURAL_RESP",
+    "N_RESP_NAO_SEI",
+    "INDICE_BENS",
+    "INDICE_BENS_POR_MORADOR",
+    "MORADORES_POR_QUARTO",
+    "TIPO_ESCOLA_DETALHADO",
+    "ATRASO_ESCOLAR",
+    "ANOS_DESDE_CONCLUSAO",
+    "REGIAO",
+    "INTER_RENDA_X_ESPANHOL",
+    "INTER_RENDA_X_ESCOLARIDADE",
+    "INTER_DIGITAL_X_ESCOLARIDADE"
+  ],
+  "colunas_extras": [
+    "TP_SEXO",
+    "TP_ESTADO_CIVIL",
+    "TP_COR_RACA",
+    "TP_NACIONALIDADE",
+    "TP_ANO_CONCLUIU",
+    "TP_ENSINO",
+    "TP_DEPENDENCIA_ADM_ESC",
+    "TP_LOCALIZACAO_ESC",
+    "CO_MUNICIPIO_PROVA",
+    "Q003",
+    "Q004",
+    "Q007",
+    "Q008",
+    "Q009",
+    "Q010",
+    "Q011",
+    "Q012",
+    "Q013",
+    "Q014",
+    "Q015",
+    "Q016",
+    "Q017",
+    "Q018",
+    "Q019",
+    "Q020",
+    "Q021",
+    "Q022",
+    "Q023"
+  ],
+  "features_derivadas_ampliadas": [
+    "OCUPACAO_MAX_RESP",
+    "CAPITAL_CULTURAL_RESP",
+    "N_RESP_NAO_SEI",
+    "INDICE_BENS",
+    "INDICE_BENS_POR_MORADOR",
+    "MORADORES_POR_QUARTO",
+    "TIPO_ESCOLA_DETALHADO",
+    "ATRASO_ESCOLAR",
+    "ANOS_DESDE_CONCLUSAO",
+    "REGIAO",
+    "INTER_RENDA_X_ESPANHOL",
+    "INTER_RENDA_X_ESCOLARIDADE",
+    "INTER_DIGITAL_X_ESCOLARIDADE"
+  ],
+  "auditoria_colunas_extras": {
+    "TP_SEXO": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "TP_ESTADO_CIVIL": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "TP_COR_RACA": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "TP_NACIONALIDADE": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "TP_ANO_CONCLUIU": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "TP_ENSINO": {
+      "ausentes": 1748458,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "TP_DEPENDENCIA_ADM_ESC": {
+      "ausentes": 2069997,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "TP_LOCALIZACAO_ESC": {
+      "ausentes": 2069997,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "CO_MUNICIPIO_PROVA": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q003": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q004": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q007": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q008": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q009": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q010": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q011": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q012": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q013": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q014": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q015": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q016": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q017": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q018": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q019": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q020": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q021": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q022": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    },
+    "Q023": {
+      "ausentes": 0,
+      "invalidos_tratados_como_ausentes": 0,
+      "exemplos_invalidos": {}
+    }
+  },
+  "ausentes_derivadas": {
+    "OCUPACAO_MAX_RESP": 0,
+    "CAPITAL_CULTURAL_RESP": 623881,
+    "N_RESP_NAO_SEI": 0,
+    "INDICE_BENS": 0,
+    "INDICE_BENS_POR_MORADOR": 0,
+    "MORADORES_POR_QUARTO": 20669,
+    "TIPO_ESCOLA_DETALHADO": 0,
+    "ATRASO_ESCOLAR": 0,
+    "ANOS_DESDE_CONCLUSAO": 1766944,
+    "REGIAO": 0,
+    "INTER_RENDA_X_ESPANHOL": 0,
+    "INTER_RENDA_X_ESCOLARIDADE": 0,
+    "INTER_DIGITAL_X_ESCOLARIDADE": 0
+  },
+  "versao_conjuntos": "1.0.0",
+  "data_hora_execucao": "2026-10-30T22:43:20-03:00",
+  "duracao_segundos": 28.8
+}

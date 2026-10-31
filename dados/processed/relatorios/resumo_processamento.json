@@ -1,0 +1,202 @@
+{
+  "status": "OK",
+  "ano_fonte": 2023,
+  "arquivo_fonte": "microdados_enem_2023/DADOS/MICRODADOS_ENEM_2023.csv",
+  "hash_sha256": "c8b1fae0a97b6ac826d950d16696efa3d89c133b0165128aadd2997c2315b666",
+  "tamanho_bytes_fonte": 1777162429,
+  "arquivo_fonte_inalterado": true,
+  "encoding_detectado": "latin-1",
+  "separador_detectado": ";",
+  "total_linhas_esperado_enunciado": 3933955,
+  "linhas_fisicas_dados_arquivo": 3933955,
+  "total_linhas_origem": 3933955,
+  "total_linhas_diagnostico": 3933955,
+  "total_notas_lc_observadas": 2822643,
+  "total_notas_lc_ausentes": 1111312,
+  "total_notas_lc_zero": 2169,
+  "total_notas_lc_zero_elegiveis": 2169,
+  "total_notas_lc_invalidas": 0,
+  "total_linhas_elegiveis": 2822643,
+  "elegiveis_com_alguma_feature_ausente": 44132,
+  "total_identificadores_duplicados": 0,
+  "total_identificadores_ausentes": 0,
+  "linhas_parquet_diagnostico": 3933955,
+  "linhas_parquet_elegiveis": 2822643,
+  "colunas_saida": [
+    "NU_INSCRICAO",
+    "Q006",
+    "Q001",
+    "Q002",
+    "TP_ESCOLA",
+    "TP_ST_CONCLUSAO",
+    "TP_FAIXA_ETARIA",
+    "Q005",
+    "Q024",
+    "Q025",
+    "IN_TREINEIRO",
+    "SG_UF_PROVA",
+    "TP_LINGUA",
+    "RENDA_PER_CAPITA_APROX",
+    "ESCOLARIDADE_MAX_RESP",
+    "PERFIL_ACESSO_DIGITAL",
+    "NU_NOTA_LC"
+  ],
+  "features_originais": [
+    "Q006",
+    "Q001",
+    "Q002",
+    "TP_ESCOLA",
+    "TP_ST_CONCLUSAO",
+    "TP_FAIXA_ETARIA",
+    "Q005",
+    "Q024",
+    "Q025",
+    "IN_TREINEIRO",
+    "SG_UF_PROVA",
+    "TP_LINGUA"
+  ],
+  "features_derivadas": [
+    "RENDA_PER_CAPITA_APROX",
+    "ESCOLARIDADE_MAX_RESP",
+    "PERFIL_ACESSO_DIGITAL"
+  ],
+  "ordem_escolaridade_max_resp": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G"
+  ],
+  "renda_representativa_q006": {
+    "A": 0.0,
+    "B": 660.0,
+    "C": 1650.005,
+    "D": 2310.005,
+    "E": 2970.005,
+    "F": 3630.005,
+    "G": 4620.005,
+    "H": 5940.005,
+    "I": 7260.005,
+    "J": 8580.005000000001,
+    "K": 9900.005000000001,
+    "L": 11220.005000000001,
+    "M": 12540.005000000001,
+    "N": 14520.005000000001,
+    "O": 17820.005,
+    "P": 23100.004999999997,
+    "Q": null
+  },
+  "estatisticas_numericas": {
+    "diagnostico": {
+      "Q005": {
+        "n": 3933955,
+        "minimo": 1.0,
+        "p25": 3.0,
+        "mediana": 4.0,
+        "p75": 4.0,
+        "maximo": 20.0,
+        "media": 3.688928063488271
+      },
+      "RENDA_PER_CAPITA_APROX": {
+        "n": 3882466,
+        "minimo": 0.0,
+        "p25": 220.0,
+        "mediana": 550.0016666666667,
+        "p75": 990.0016666666667,
+        "maximo": 23100.004999999997,
+        "media": 886.9055704788392
+      },
+      "NU_NOTA_LC": {
+        "n": 2822643,
+        "minimo": 0.0,
+        "p25": 471.4,
+        "mediana": 523.1,
+        "p75": 570.3,
+        "maximo": 820.8,
+        "media": 518.1466370348642
+      }
+    },
+    "elegiveis": {
+      "Q005": {
+        "n": 2822643,
+        "minimo": 1.0,
+        "p25": 3.0,
+        "mediana": 4.0,
+        "p75": 4.0,
+        "maximo": 20.0,
+        "media": 3.726820217788789
+      },
+      "RENDA_PER_CAPITA_APROX": {
+        "n": 2778511,
+        "minimo": 0.0,
+        "p25": 220.0,
+        "mediana": 550.0016666666667,
+        "p75": 1155.00125,
+        "maximo": 23100.004999999997,
+        "media": 962.4144329945659
+      },
+      "NU_NOTA_LC": {
+        "n": 2822643,
+        "minimo": 0.0,
+        "p25": 471.4,
+        "mediana": 523.1,
+        "p75": 570.3,
+        "maximo": 820.8,
+        "media": 518.1466370348642
+      }
+    }
+  },
+  "cobertura_elegiveis": {
+    "IN_TREINEIRO": {
+      "categorias_diagnostico": 2,
+      "categorias_elegiveis": 2,
+      "ausentes_nos_elegiveis": []
+    },
+    "TP_FAIXA_ETARIA": {
+      "categorias_diagnostico": 20,
+      "categorias_elegiveis": 20,
+      "ausentes_nos_elegiveis": []
+    },
+    "SG_UF_PROVA": {
+      "categorias_diagnostico": 27,
+      "categorias_elegiveis": 27,
+      "ausentes_nos_elegiveis": []
+    },
+    "treineiros_elegiveis": 548249
+  },
+  "invalidos_por_coluna": {
+    "NU_INSCRICAO": 0,
+    "Q006": 0,
+    "Q001": 0,
+    "Q002": 0,
+    "TP_ESCOLA": 0,
+    "TP_ST_CONCLUSAO": 0,
+    "TP_FAIXA_ETARIA": 0,
+    "Q005": 0,
+    "Q024": 0,
+    "Q025": 0,
+    "IN_TREINEIRO": 0,
+    "SG_UF_PROVA": 0,
+    "TP_LINGUA": 0,
+    "NU_NOTA_LC": 0
+  },
+  "versao_regras_tratamento": "1.0.0",
+  "data_hora_execucao": "2026-10-27T21:43:04-03:00",
+  "duracao_segundos": 37.0,
+  "regras_e_alertas": {
+    "regras": [
+      "Leitura por lista positiva: somente as 14 colunas de entrada (12 features + NU_INSCRICAO + NU_NOTA_LC).",
+      "Base nacional completa, sem filtro de UF, idade, escola ou treineiro.",
+      "Textos: espaços removidos, maiúsculas, vazio = ausente. Códigos fora do dicionário = ausente e contabilizado.",
+      "Nenhuma imputação, padronização, codificação aprendida ou exclusão por ausência de feature.",
+      "RENDA_PER_CAPITA_APROX = ponto médio da faixa Q006 (2023) / Q005; A = 0; Q, Q005 inválido/ausente = ausente; sem arredondamento.",
+      "ESCOLARIDADE_MAX_RESP = maior entre Q001 e Q002 só quando ambos em A–G; caso contrário INDETERMINADA. Ordem: A<B<C<D<E<F<G.",
+      "PERFIL_ACESSO_DIGITAL = combinação Q024 (A = sem computador; B–E = com) e Q025 (A = não; B = sim); demais = INDETERMINADO.",
+      "Conjunto elegível = NU_NOTA_LC observada e numérica, incluindo nota zero."
+    ],
+    "alertas": [],
+    "invariantes_violadas": []
+  }
+}
